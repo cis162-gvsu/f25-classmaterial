@@ -13,8 +13,9 @@ Phone:  (616) 331 - 2439
 Email:  [erin.carrier@gvsu.edu](mailto:erin.carrier@gvsu.edu?subject=[CIS162])
 
 Office Hours:
-    - Tuesdays 4pm - 4:50pm (in C-2-211 MAK)
-    - Thursdays 10am - 11am (in Computing Success Center)
+- Thursdays 10am - 11am (in Computing Success Center)
+- Feel free to drop in any time my office door is open
+- Reach out if you want to meet at a different time
 
 ## Catalog Course Description
 
