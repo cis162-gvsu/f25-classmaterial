@@ -3,15 +3,20 @@
 ## About the Course
 
 ### Course Overview
-This course should help acquaint you with:
+This course should help you:
 
-* How to break down and solve problems
-* 
+* Learn how to break down and solve problems
+* Develop critical thinking skills
+* Understand and employ logical reasoning and algorithmic thinking
+* Learn basic programming constructs
+
 ### Helpful Links
 
 * [Syllabus](syllabus.md)
 * [PrairieLearn](https://us.prairielearn.com/pl/course_instance/192541) - log-in
   using "Google" and use your GVSU gmail account
+* [Computing Success Center Calendar](https://www.gvsu.edu/computing/student-success-center-103)
+* [Tutoring and Reading Center (by appointment tutoring)](https://www.gvsu.edu/tutoring/)
 
 ### Need Help?
 If you have questions, please ask!  I'm here to help.  I welcome students to

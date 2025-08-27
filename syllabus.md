@@ -131,7 +131,7 @@ The lab exam is open notes and open book.
 
 ## Final Exam
 
-A common final exam is taken by all CIS 162 sections on the Saturda
+A common final exam is taken by all CIS 162 sections on the Saturday
 morning before final exam week – December 6th 9:00 - 11:00 am. 
 
 ## Course Policies
