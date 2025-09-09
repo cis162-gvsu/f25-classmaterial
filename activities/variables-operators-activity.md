@@ -9,6 +9,7 @@ Define each of the following terms:
 * syntax error
 * comment
 * literal
+<br><br>
 
 
 ### Part 2
@@ -20,6 +21,8 @@ y = "goodbye"
 z = x + " " + y
 print(f'z = {z}')
 ```
+<br><br>
+
 
 ### Part 3
 What is the output of the following code?
@@ -35,6 +38,7 @@ b = w % x
 print(a)
 print(b)
 ```
+<br><br>
 
 
 ### Part 4
@@ -49,6 +53,7 @@ y = 3.14
 c = y * 2 * x
 print(c)
 ```
+<br><br>
 
 ### Part 5
 Describe in a sentence what the following piece
@@ -60,3 +65,4 @@ d = int(input())
 m = 5280
 print(d/m)
 ```
+<br><br>
