@@ -46,8 +46,46 @@ print(r)
 ```
 <br><br><br><br>
 
-
 ### Part 4
+What is the output of the following code?
+
+```
+message = "hello fred -- how's your semester going so far?"
+part_of_message = message[3:28]
+part_of_message2 = message[6:-5:2]
+part_of_part = part_of_message[::-1]
+message = "dogs can't talk"
+print(part_of_message)
+print(part_of_message2)
+print(part_of_part)
+```
+<br><br><br><br>
+
+
+
+### Part 5
+Many stores ask you if you would like to round up for charity on your bill.
+Is there a math function available to you that would make this easier?
+If so, can you demonstrate how to print a rounded up 
+value provided in the variable `total_sale` in the code below?
+```
+import math
+
+total_sale = 3.45
+```
+<br><br><br><br>
+
+### Part 6
+Write a piece of code that converts a given input in feet to kilometers.
+Print the final result nicely.
+You can use this as the start of your solution.
+```
+print(“Please enter a distance in feet.”)
+feet = int(input())
+```
+<br><br><br><br><br><br><br><br>
+
+### Part 7
 Describe in a sentence what the following piece
 of code calculates.  The best answer doesn’t 
 say explicitly what line-by-line happens, but 
@@ -61,7 +99,7 @@ print(c)
 ```
 <br><br><br><br>
 
-### Part 5
+### Part 8
 Describe in a sentence what the following piece
 of code calculates.  The best answer doesn’t 
 say explicitly what line-by-line happens, but 
@@ -73,23 +111,3 @@ print(d/m)
 ```
 <br><br><br><br>
 
-### Part 6
-Many stores ask you if you would like to round up for charity on your bill.
-Is there a math function available to you that would make this easier?
-If so, can you demonstrate how to print a rounded up 
-value provided in the variable `total_sale` in the code below?
-```
-import math
-
-total_sale = 3.45
-```
-<br><br><br><br>
-### Part 6
-Write a piece of code that converts a given input in feet to kilometers.
-Print the final result nicely.
-You can use this as the start of your solution.
-```
-print(“Please enter a distance in feet.”)
-feet = int(input())
-```
-<br><br><br><br>
