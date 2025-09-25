@@ -28,7 +28,7 @@ elif qty = MAX_ITEMS
 else
     print(too many)
 ```
-<br><br><br>
+<br><br>
 
 ### Question 3:
 
