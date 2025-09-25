@@ -42,7 +42,8 @@ when evaluating the above expression?
 * `x = 11`, `y = 5`, `z = 25.0`
 * `x = 9`, `y = 5`, `z = 15`
 * `x = 8`, `y = 3`, `z = 20`
-<br><br><br><br>
+<br><br><br><br><br><br>
+
 
 
 ### Question 3:
