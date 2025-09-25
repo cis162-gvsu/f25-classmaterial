@@ -44,6 +44,25 @@ when evaluating the above expression?
 * `x = 8`, `y = 3`, `z = 20`
 <br><br><br><br>
 
+
+### Question 3:
+
+Consider the following two expressions:
+Expression 1:
+```
+x / y > 5 and y > 0
+```
+
+Expression 2:
+```
+y > 0 and x / y > 5
+```
+
+Are these two expressions the same?
+E.g. when evaluated, will they always give the same result?
+<br><br><br><br>
+
+
 ### Question 4:
 Are the following two snippets of code equivalent?  Why?
 
@@ -68,24 +87,26 @@ if(age >= 14):
 ### Question 5:
 Consider the following code:
 ```
-product_id = “98439hdw”
+name = “98439hdw”
 if product_id[-3:] == "hdw" or "HDW":
     print("The product code is hardware.")
 else:
 	print(“The product code is not hardware.”)
 ```
 
+What do you think this code does?
+<br><br><br><br>
+
 What is the output of the above code?
 <br><br><br><br>
 
 
 
-How would you test the above code works as expected?
+Describe how you would test the above code works as expected?
 <br><br><br><br>
 
 
 
-
-Does it?  If not, why?
+Does it work as expected?  If not, why?
 <br><br><br><br>
 
