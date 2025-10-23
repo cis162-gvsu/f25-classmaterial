@@ -1,10 +1,10 @@
-# Rules
+## Rules
 You as a class have to work together
 (without computers, phones, any tech devices, etc.)
 to determine the output (it's okay if you're wrong)
 and convince me **why** that is the output.
 
-# Challenge 1
+## Challenge 1
 What is the output of the following code?
 ```
 def bar(i, val, lst):
@@ -21,9 +21,9 @@ for i in range(len(lst)):
     bar(i, val, lst)
     print(f'i={i}, val={val}, lst={lst}')
 ```
-<br><br><br><br><br><br>
+<br><br><br><br>
 
-# Challenge 2
+## Challenge 2
 What is the output of the following code?
 ```
 def foo(i, val, lst):
