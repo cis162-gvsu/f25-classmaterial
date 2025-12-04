@@ -10,33 +10,33 @@ mat = [[18,9,13],
 ### Question 1
 What is the value of `mat[1][2]`?
 
-<br><br><br>
+<br><br>
 
 
 ### Question 2
 What is the value of `mat[0][-1]`?
 
-<br><br><br>
+<br><br>
 
 ### Question 3
 What is the value of `mat[-2]`?
 
-<br><br><br>
+<br><br>
 
 ### Question 4
 What is the value of `len(mat)`?
 
-<br><br><br>
+<br><br>
 
 ### Question 5
 How would you access the second sublist of `mat`?
 
-<br><br><br>
+<br><br>
 
 ### Question 6
 Write a line of code to print the number of items in the second sublist of `mat`.
 
-<br><br><br>
+<br><br>
 
 
 
@@ -63,8 +63,6 @@ def compute_inner_sums(mat):
 
 
 
-
-
 ```
 
 ### Question 8
@@ -72,25 +70,5 @@ Create a dictionary containing the keys 'christmas', 'new years', and 'memorial 
 For each key, have the value be a list of people you spent that holiday with
 (if no one, use an empty list).
 
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
 
 
